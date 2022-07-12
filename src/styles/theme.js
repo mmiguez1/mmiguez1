@@ -1,9 +1,9 @@
 const theme = {
   colors: {
-    dark: '#fafaf7',  //white
-    darkestNavy: '#fafaf7', //white
-    darkNavy: '#fafaf7', //white
-    navy: '#fafaf7', //white
+    dark: '#f2f5f4',  //white
+    darkestNavy: '#f2f5f4', //white
+    darkNavy: '#f2f5f4', //white
+    navy: '#f2f5f4', //white
     lightNavy: '#172a45',  //dark navy
     darkestGrey: '#b3b7c4',
     darkGrey: '#4f576d', //light grey
