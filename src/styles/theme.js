@@ -3,7 +3,7 @@ const theme = {
     dark: '#f2f0e9',  //white
     darkestNavy: '#f2f0e9', //white
     darkNavy: '#f2f0e9', //white
-    navy: '#e6f1ff', //white
+    navy: '#f2f0e9', //white
     lightNavy: '#172a45',  //dark navy
     darkestGrey: '#b3b7c4',
     darkGrey: '#4f576d', //light grey
