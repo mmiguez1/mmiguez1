@@ -278,7 +278,7 @@ class Nav extends Component {
                 <CSSTransition classNames="fadedown" timeout={3000}>
                   <div style={{ transitionDelay: `600ms` }}>
                     <ResumeLink
-                      href="https://github.com/mmiguez1/mmiguez1/blob/main/static/resume.pdf"
+                      href="./static/resume.pdf"
                       target="_blank"
                       rel="nofollow noopener noreferrer">
                       Resume
