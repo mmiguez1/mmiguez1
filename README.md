@@ -8,28 +8,7 @@ I’m Maygan, a recent Tulane grad who's passionate about fashion, technology, a
         
 <br>
 
-## 📌 Pinned Repositories
 
-<br>
-
-<a href="https://github.com/mmiguez1/video-virtual-try-on">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mmiguez1&repo=video-virtual-try-on&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/mmiguez1/gggi_data_analysis">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mmiguez1&repo=gggi_data_analysis&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/mmiguez1/voting-machine">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mmiguez1&repo=voting-machine&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
 
 ## 🔧 Languages and Tools
 
